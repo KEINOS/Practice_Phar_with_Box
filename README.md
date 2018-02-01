@@ -16,8 +16,8 @@ A tutorial to archive an app in [`src`](https://github.com/KEINOS/Practice_Phar_
 
 **[`Box.phar`](https://github.com/box-project/box2) is a Phar archiver application** to ease archiving PHP files, rather than using Phar classess to archive them.
 
-### What the app in `/src` does
-It just echoes "Hello world!" and version info. See [`index.php`](https://github.com/KEINOS/Practice_Phar_with_Box/blob/master/src/index.php).
+### What the app in `src/` does
+It just echoes "Hello world!" and version info. See [`src/` dir](https://github.com/KEINOS/Practice_Phar_with_Box/blob/master/src/).
 
 But when archiving it to `.Phar` file via `Box`, `Box` will automatically replace values such as:
 
