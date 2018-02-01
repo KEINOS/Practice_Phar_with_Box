@@ -1,0 +1,10 @@
+{
+    "chmod": "0755",
+    "directories": [
+        "./src"
+    ],
+    "main": "src/index.php",
+    "output": "./HelloWorld.phar",
+    "stub": true,
+    "git-version": "git_versionz"
+}
