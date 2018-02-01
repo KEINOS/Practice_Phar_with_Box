@@ -3,8 +3,18 @@
 # Sample script to archive PHP files as `Phar` using [`Box`](https://github.com/box-project/box2) with auto version insertion
 
 ## TL;DR
-
 > Clone, run `install.php`, edit `index.php`, commit changes, add git tag, build app, and then run built app.
+
+### What this app does
+It just echoes "Hello world!" and version info. See [`index.php`](https://github.com/KEINOS/Practice_Phar_with_Box/blob/master/src/index.php).
+
+But when archiving it to `.Phar` file via `Box`, `Box` will automatically replace values such as:
+
+1. version number(git tag)
+1. build date
+1. build ID(commit ID)
+
+### How to 
 
 ## TS;DR
 1. Clone this repo.
