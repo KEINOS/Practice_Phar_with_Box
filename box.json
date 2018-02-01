@@ -6,5 +6,9 @@
     "main": "src/index.php",
     "output": "./HelloWorld.phar",
     "stub": true,
-    "git-version": "git_versionz"
+    "git-version": "git_version",
+    "git-commit": "git_commit_long",
+    "git-commit-short": "git_commit_short",
+    "git-tag": "git_tag",
+    "datetime": "date_build"
 }
