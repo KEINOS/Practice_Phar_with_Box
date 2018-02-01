@@ -3,7 +3,10 @@
 # Sample script to archive PHP files as `Phar`, using [`Box`](https://github.com/box-project/box2) with auto version insertion
 
 ## TL;DR
+
 > Clone, run `install.php`, edit `index.php`, commit changes, add git tag, build app, and then run built app.
+
+## TS;DR
 
 ### What this REPO for
 
@@ -24,7 +27,6 @@ But when archiving it to `.Phar` file via `Box`, `Box` will automatically replac
 
 ### How to 
 
-## TS;DR
 1. Clone this repo.
 2. run `install.php` to install `box.phar` (or get your own `box.phar`).
 
