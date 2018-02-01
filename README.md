@@ -7,7 +7,7 @@
 
 ### What this REPO for
 
-A tutorial to archive an app in [`src`](https://github.com/KEINOS/Practice_Phar_with_Box/tree/master/src) directory to `Phar` file. Which has an **auto-version-value-replacement** feature.
+A tutorial to archive an app in [`src`](https://github.com/KEINOS/Practice_Phar_with_Box/tree/master/src) directory to `Phar` file using `box.phar`. Which has an **auto-version-value-replacement** feature.
 
 ### What is `Box`
 
