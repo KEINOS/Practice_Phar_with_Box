@@ -5,13 +5,13 @@
 ## TL;DR
 > Clone, run `install.php`, edit `index.php`, commit changes, add git tag, build app, and then run built app.
 
-### What is `Box`
-
-**[`Box.phar`](https://github.com/box-project/box2) is a Phar archiver application** to ease archiving PHP files, rather than using Phar classess to archive them.
-
 ### What this REPO for
 
 A tutorial to archive an app in [`src`](https://github.com/KEINOS/Practice_Phar_with_Box/tree/master/src) directory to `Phar` file. Which has an **auto-version-value-replacement** feature.
+
+### What is `Box`
+
+**[`Box.phar`](https://github.com/box-project/box2) is a Phar archiver application** to ease archiving PHP files, rather than using Phar classess to archive them.
 
 ### What the app in `/src` does
 It just echoes "Hello world!" and version info. See [`index.php`](https://github.com/KEINOS/Practice_Phar_with_Box/blob/master/src/index.php).
