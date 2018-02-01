@@ -1,9 +1,13 @@
 [[日本語](https://qiita.com/KEINOS/items/620be6b1e043a5023e3c)]
 
-# Sample script to archive PHP files as `Phar` using [`Box`](https://github.com/box-project/box2) with auto version insertion
+# Sample script to archive PHP files as `Phar`, using [`Box`](https://github.com/box-project/box2) with auto version insertion
 
 ## TL;DR
 > Clone, run `install.php`, edit `index.php`, commit changes, add git tag, build app, and then run built app.
+
+### What is `Box`
+
+**[`Box.phar`](https://github.com/box-project/box2) is a Phar archiver application** to ease archiving PHP files, rather than using Phar classess to archive them.
 
 ### What this app does
 It just echoes "Hello world!" and version info. See [`index.php`](https://github.com/KEINOS/Practice_Phar_with_Box/blob/master/src/index.php).
